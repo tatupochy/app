@@ -1,0 +1,14 @@
+.login{
+    margin: auto;
+    padding: 8px;
+}
+.login-image{
+    margin: auto;
+    text-align: center;
+}
+.login-from{
+    margin: auto;
+}
+.login-from h1{
+    align: center;
+}
